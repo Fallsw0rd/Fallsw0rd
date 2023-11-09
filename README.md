@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fallsw0rd
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, python, html, css, javascript
 - 📫 How to reach me Rick Ross
 
 <!---
